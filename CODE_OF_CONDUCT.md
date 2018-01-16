@@ -1,4 +1,4 @@
-# NativeScript Community Code of Conduct bla bla
+# NativeScript Community Code of Conduct
 
 Our community members come from all walks of life and are all at different stages of their personal and professional journeys. To support everyone, we've prepared a short code of conduct. Our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
 
@@ -7,7 +7,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 ## tl;dr
 
 - Be respectful. 
-- We're here to help
+- We're here to help.
 - Abusive behavior is never tolerated. 
 - Violations of this code may result in swift and permanent expulsion from the NativeScript community channels. 
 
