@@ -1,4 +1,4 @@
-# NativeScript Community Code of Conduct
+# NativeScript Community Code of Conduct ss
 
 Our community members come from all walks of life and are all at different stages of their personal and professional journeys. To support everyone, we've prepared a short code of conduct. Our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
 
